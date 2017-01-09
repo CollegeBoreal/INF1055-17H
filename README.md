@@ -1,14 +1,19 @@
 # Administration de système
 
-## Cloud
+## Nuage
 
-### OpenStack
+## Qu'est ce que le "cloud"?
+- Les 5 principes
+- Les classifications
+- Nuage Public et Privé
+
+### OpenStack en production
 - Keystone
 - Nova
 - Neutron
 - Cinder
 
-## Orchestration
+## Orchestration dans un environnement distribué
 
 ### Docker Swarm
 
