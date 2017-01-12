@@ -11,7 +11,7 @@
 - AWS (Amazon Web Services)
 - Azure (Microsoft)
 
-### Nuage Privé
+## Nuage Privé
 
 OpenStack en production
 - Keystone
