@@ -7,7 +7,13 @@
 - Les classifications
 - Nuage Public et Privé
 
-### OpenStack en production
+## Nuage Public
+- AWS (Amazon Web Services)
+- Azure (Microsoft)
+
+### Nuage Privé
+
+OpenStack en production
 - Keystone
 - Nova
 - Neutron
