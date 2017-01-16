@@ -31,7 +31,10 @@
    TheIntercloud
    
 - Les classifications
-  * 
+  * SaaS (Software as a Service)
+  * PaaS (Platform as a Serice)
+  * IaaS (Infrastructure as a Service)
+  
 - Nuage Public et Privé
 
 ## Nuage Public
