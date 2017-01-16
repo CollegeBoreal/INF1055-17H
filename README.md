@@ -2,6 +2,8 @@
 
 ## Nuage
 
+## CAPEX vs OPEX
+
 ## Qu'est ce que le "cloud"?
 - Les 5 principes
 - Les classifications
