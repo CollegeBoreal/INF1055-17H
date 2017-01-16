@@ -15,7 +15,21 @@
   * Metered Billing (Pay per use)
   
 - Examples
-  
+   
+   AWS, 
+   Google App Engine
+   Microsoft Azure
+   RackSpace
+   Digital Ocean
+   IBM SmartCloud
+   OpenNebula
+   CloudSigma
+   OracleCloud
+   EngineYard
+   Heroku
+   AppScale
+   TheIntercloud
+   
 - Les classifications
   * 
 - Nuage Public et Privé
