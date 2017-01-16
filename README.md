@@ -29,7 +29,8 @@
   * PaaS (Platform as a Serice)
   * IaaS (Infrastructure as a Service)
   
-- Nuage Public et Privé
+- Nuage Public et Privé   
+  Chercher des Nuages Gratuits
 
 ## Nuage Public
 - AWS (Amazon Web Services)
