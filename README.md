@@ -6,7 +6,7 @@
 - Capital Expenses
 - Operation Expenses
 
-## Qu'est ce que le "cloud"?
+## Qu'est ce que le "cloud" public?
 - Les 5 principes
   * Pooled Resources (Available to any users) 
   * Virtualization
@@ -14,7 +14,10 @@
   * Automation (Build, configure, ... without manual intervention)
   * Metered Billing (Pay per use)
   
+- Examples
+  
 - Les classifications
+  * 
 - Nuage Public et Privé
 
 ## Nuage Public
