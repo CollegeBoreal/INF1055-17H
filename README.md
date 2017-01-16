@@ -3,6 +3,8 @@
 ## Nuage
 
 ## CAPEX vs OPEX
+- Capital Expenses
+- Operation Expenses
 
 ## Qu'est ce que le "cloud"?
 - Les 5 principes
