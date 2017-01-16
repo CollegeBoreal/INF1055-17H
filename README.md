@@ -30,7 +30,7 @@
   * IaaS (Infrastructure as a Service)
   
 - Nuage Public et Privé   
-  Chercher des Nuages Gratuits
+  Exercice: Chercher des Nuages Gratuits
 
 ## Nuage Public
 - AWS (Amazon Web Services)
