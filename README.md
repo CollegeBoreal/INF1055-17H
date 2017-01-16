@@ -15,20 +15,14 @@
   * Metered Billing (Pay per use)
   
 - Examples
+   * SaaS: 
+     Prezi, Google Docs, Microsoft 365, 
    
-   AWS, 
-   Google App Engine
-   Microsoft Azure
-   RackSpace
-   Digital Ocean
-   IBM SmartCloud
-   OpenNebula
-   CloudSigma
-   OracleCloud
-   EngineYard
-   Heroku
-   AppScale
-   TheIntercloud
+   * PaaS:
+     Google App Engine, IBM SmartCloud, EngineYard, Heroku, AppScale
+     
+   * IaaS:  
+     AWS, Microsoft Azure, RackSpace, DigitalOcean, OpenNebula, CloudSigma, OracleCloud, TheIntercloud (dead Cisco cloud)
    
 - Les classifications
   * SaaS (Software as a Service)
