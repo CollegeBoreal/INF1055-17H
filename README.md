@@ -8,6 +8,12 @@
 
 ## Qu'est ce que le "cloud"?
 - Les 5 principes
+  * Pooled Resources (Available to any users) 
+  * Virtualization
+  * Elasticity (Dynamic scale without CAPEX)
+  * Automation (Build, configure, ... without manual intervention)
+  * Metered Billing (Pay per use)
+  
 - Les classifications
 - Nuage Public et Privé
 
