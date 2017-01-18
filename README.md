@@ -31,7 +31,7 @@
        http://cloudacademy.com/blog/google-cloud-functions-serverless/
 
      * BaaS: 
-       Firebase
+       Firebase, adMob
        
        https://github.com/NativeScript/sample-Groceries
 
