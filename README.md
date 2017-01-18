@@ -17,6 +17,7 @@
 - Les classifications
   * SaaS (Software as a Service)
   * FaaS (Function as a Service) ou Serverless
+  * BaaS (Backend as a Service)
   * PaaS (Platform as a Serice)
   * IaaS (Infrastructure as a Service)
 
@@ -28,6 +29,11 @@
        AWS Lamda, Google Cloud Functions, Zapier, IFTTT
        
        http://cloudacademy.com/blog/google-cloud-functions-serverless/
+
+     * BaaS: 
+       Firebase
+       
+       https://github.com/NativeScript/sample-Groceries
 
      * PaaS:
        Google App Engine, IBM SmartCloud, EngineYard, Heroku, AppScale, CloudFoundry (VMWare)
