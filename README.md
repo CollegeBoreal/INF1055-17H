@@ -25,7 +25,9 @@
        Prezi, Google Docs, Microsoft 365, 
        
      * FaaS:  
-       AWS Lamda
+       AWS Lamda, Google Cloud Functions
+       
+       http://cloudacademy.com/blog/google-cloud-functions-serverless/
 
      * PaaS:
        Google App Engine, IBM SmartCloud, EngineYard, Heroku, AppScale
