@@ -30,7 +30,7 @@
        http://cloudacademy.com/blog/google-cloud-functions-serverless/
 
      * PaaS:
-       Google App Engine, IBM SmartCloud, EngineYard, Heroku, AppScale
+       Google App Engine, IBM SmartCloud, EngineYard, Heroku, AppScale, CloudFoundry (VMWare)
 
        https://www.angularonrails.com/deploy-angular-cli-webpack-project-heroku/
 
