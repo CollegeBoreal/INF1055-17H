@@ -14,15 +14,17 @@
   * Automation (Build, configure, ... without manual intervention)
   * Metered Billing (Pay per use)
   
-- Examples
-   * SaaS: 
-     Prezi, Google Docs, Microsoft 365, 
-   
-   * PaaS:
-     Google App Engine, IBM SmartCloud, EngineYard, Heroku, AppScale
-     
-   * IaaS:  
-     AWS, Microsoft Azure, RackSpace, DigitalOcean, OpenNebula, CloudSigma, OracleCloud, TheIntercloud (dead Cisco cloud)
+ - Examples
+    * SaaS: 
+      Prezi, Google Docs, Microsoft 365, 
+
+    * PaaS:
+      Google App Engine, IBM SmartCloud, EngineYard, Heroku, AppScale
+      
+      https://www.angularonrails.com/deploy-angular-cli-webpack-project-heroku/
+
+    * IaaS:  
+      AWS, Microsoft Azure, RackSpace, DigitalOcean, OpenNebula, CloudSigma, OracleCloud, TheIntercloud (dead Cisco cloud)
    
 - Les classifications
   * SaaS (Software as a Service)
