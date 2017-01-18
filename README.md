@@ -25,7 +25,7 @@
        Prezi, Google Docs, Microsoft 365, 
        
      * FaaS:  
-       AWS Lamda, Google Cloud Functions
+       AWS Lamda, Google Cloud Functions, Zapier, IFTTT
        
        http://cloudacademy.com/blog/google-cloud-functions-serverless/
 
