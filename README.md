@@ -24,7 +24,7 @@
      * SaaS: 
        Prezi, Google Docs, Microsoft 365, 
        
-     * FaaS
+     * FaaS:  
        AWS Lamda
 
      * PaaS:
