@@ -1,6 +1,2 @@
 ## Gary Uppiah 
-
-### gentle-ridge-56793
- * https://gentle-ridge-56793.herokuapp.com/ 
-### guarded-inlet-35862
- * https://guarded-inlet-35862.herokuapp.com/
+https://obscure-basin-54817.herokuapp.com/
