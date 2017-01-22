@@ -39,13 +39,18 @@
        Google App Engine, IBM SmartCloud, EngineYard, Heroku, AppScale, CloudFoundry (VMWare)
 
        https://devcenter.heroku.com/articles/getting-started-with-nodejs    
+       ```
+       Exercice: Rajouter du code personel a son Dyno
+       ```
        https://www.angularonrails.com/deploy-angular-cli-webpack-project-heroku/
 
      * IaaS:  
        AWS, Microsoft Azure, RackSpace, DigitalOcean, OpenNebula, CloudSigma, OracleCloud, TheIntercloud (dead Cisco cloud)
 
 - Nuage Public et Privé   
+```
   Exercice: Chercher des Nuages Gratuits
+```
 
 ## Nuage Public
 - AWS (Amazon Web Services)
