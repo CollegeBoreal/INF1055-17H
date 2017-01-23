@@ -42,7 +42,8 @@
        ```
        Exercice: Rajouter du code personel a son Dyno
        ```
-       https://www.angularonrails.com/deploy-angular-cli-webpack-project-heroku/
+       https://www.angularonrails.com/deploy-angular-cli-webpack-project-heroku/   
+       https://medium.com/@ryanchenkie_40935/angular-cli-deployment-host-your-angular-2-app-on-heroku-3f266f13f352#.ffi3gydv6
 
      * IaaS:  
        AWS, Microsoft Azure, RackSpace, DigitalOcean, OpenNebula, CloudSigma, OracleCloud, TheIntercloud (dead Cisco cloud)
