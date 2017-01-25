@@ -53,7 +53,7 @@
        https://www.angularonrails.com/deploy-angular-cli-webpack-project-heroku/   
        https://medium.com/@ryanchenkie_40935/angular-cli-deployment-host-your-angular-2-app-on-heroku-3f266f13f352#.ffi3gydv6
 
-     * µS:
+     * µS:  
        Apache Mesos (créer une Structure Spark)
 
      * IaaS:  
@@ -61,8 +61,22 @@
 
 - Nuage Public et Privé   
 ```
-  Exercice: Chercher des Nuages Gratuits
+  1) Exercice: Chercher des Nuages Gratuits
 ```
+  * HP Entreprise Converged Infrastructure [Gary]   
+  * Google Compute Engine* [Gary]  
+  * IBM SmartCloud entreprise* [Gary]  
+  * Microsoft Azure TryOut [Julien]  
+  * Julien a chercher   
+```
+  2) Exercice: Faire la demonstration d'un Cloud 
+  * 30 minutes max
+  * lancer une instance de son choix
+  * si IaaS se connecter a son instance d'un Terminal Local
+  * si PaaS demontrer qu'il est vivant
+  * Lister les services offerts (i.e. DNS, VM, Object Store, DB)
+```
+  
 
 ## Nuage Public
 - AWS (Amazon Web Services)
