@@ -15,11 +15,19 @@
   * Metered Billing (Pay per use)
      
 - Les classifications
+
   * SaaS (Software as a Service)
   * FaaS (Function as a Service) ou Serverless
-  * BaaS (Backend as a Service)
+  * BaaS (Backend as a Service) [Obsolete]
   * PaaS (Platform as a Serice)
+  - µS (Mesos DCOS or VmWare VSphere)
   * IaaS (Infrastructure as a Service)
+
+  Temps d'installation
+  * FaaS (en minutes)
+  * PaaS (en heures)
+  * µS (en semaines)
+  * IaaS (en mois)
 
   - Examples
      * SaaS: 
@@ -44,6 +52,9 @@
        ```
        https://www.angularonrails.com/deploy-angular-cli-webpack-project-heroku/   
        https://medium.com/@ryanchenkie_40935/angular-cli-deployment-host-your-angular-2-app-on-heroku-3f266f13f352#.ffi3gydv6
+
+     * µS:
+       Apache Mesos (créer une Structure Spark)
 
      * IaaS:  
        AWS, Microsoft Azure, RackSpace, DigitalOcean, OpenNebula, CloudSigma, OracleCloud, TheIntercloud (dead Cisco cloud)
