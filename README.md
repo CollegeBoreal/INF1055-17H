@@ -75,6 +75,7 @@
   * si IaaS se connecter a son instance d'un Terminal Local
   * si PaaS demontrer qu'il est vivant
   * Lister les services offerts (i.e. DNS, VM, Object Store, DB)
+  Du Lundi 30 Janvier
 ```
   
 
