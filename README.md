@@ -52,6 +52,11 @@
        ```
        https://www.angularonrails.com/deploy-angular-cli-webpack-project-heroku/   
        https://medium.com/@ryanchenkie_40935/angular-cli-deployment-host-your-angular-2-app-on-heroku-3f266f13f352#.ffi3gydv6
+       
+       ```
+       Exercice: Ajouter un DNS à son dyno
+       ```
+       https://devcenter.heroku.com/articles/custom-domains
 
      * µS:  
        Apache Mesos (créer une Structure Spark)
