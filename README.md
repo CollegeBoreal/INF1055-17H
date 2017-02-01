@@ -102,3 +102,8 @@ OpenStack en production
 
 ### Docker Registry
 - Ceph
+
+# Projet
+
+[J](http://myusernamesite.wordpress.com)
+[G](http://ultimateguidetomesos.wordpress.com)
