@@ -1,5 +1,10 @@
 # Vagrant
 
+## Devoir
+
+Installer dcos vagrant  
+https://github.com/dcos/dcos-vagrant
+
 ## Blog
 https://manski.net/2016/09/vagrant-multi-machine-tutorial/
 
