@@ -2,15 +2,19 @@
 
 
 * XaaS
+> Classification des différents nuages  
 
 ![alt tag](aas.png)
 
-* Composants mS
-
-![alt tag](components.png)
-
 * Cluster
 
+> Qu'est ce qu'une grappe? (Cluster)  
+
 ![alt tag](mesos-cluster.png)
+
+* Composants mS
+
+> Quel sont les principaux composants d'une grappe?  
+![alt tag](components.png)
 
 
