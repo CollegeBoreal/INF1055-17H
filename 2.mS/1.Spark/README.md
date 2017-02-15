@@ -1,8 +1,8 @@
 # Devoir
 
-Créer un Script Spark en suivant le patron
-Gary: Charger la table Country
-Julien: Charger la table City
+Créer un Script Spark en suivant le patron  
+Gary: Charger la table Country  
+Julien: Charger la table City  
 
 # Pratique de manipulation de données
 
