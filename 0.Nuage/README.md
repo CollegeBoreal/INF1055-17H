@@ -1,7 +1,7 @@
 ## Nuage
 
 
-![alt tag](https://github.com/CollegeBoreal/INF1055-17H/blob/master/0.Nuage/cooling-system.jpg)
+![alt tag](cooling-system.jpg)
 
 
 
