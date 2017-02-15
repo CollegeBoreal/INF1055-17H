@@ -13,7 +13,7 @@
 
 ![alt tag](mesos-cluster.png)
 
-* Composants mS
+* Composants mS de Mesos  
 
 > Quel sont les principaux composants d'une grappe?  
 
