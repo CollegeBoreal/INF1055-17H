@@ -11,12 +11,13 @@
 | Theme      | Semaine  | Sujet                                                |
 |-----------:|:--------:|:-----------------------------------------------------|  
 |0.Nuage     | 1        | Installation de l'environnement                      |
-|1.PaaS      | 2        |[2.WorkSheet#devoir](2.WorkSheet#devoir)              |
+|            | 2        |                                                      |
+|1.PaaS      | 3        |                                                      |
+|            | 4        |                                                      |
 |2.mS        | 3        |                                                      |
 |3.Vagrant   | 4        |                                                      |
-|4.IaaS      | 5        |                                                      |
-|6.OOP       | `6`      |                                                      |
-|            | 7        |                                                      |
+|            | `6`        |                                                      |
+|4.IaaS      | 7        |                                                      |
 |            | 8        |                                                      |
 |            | 9        |                                                      |
 |            | 10       |                                                      |
