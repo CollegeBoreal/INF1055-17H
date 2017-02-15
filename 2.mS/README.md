@@ -2,6 +2,7 @@
 
 
 * XaaS
+
 > Classification des différents nuages  
 
 ![alt tag](aas.png)
@@ -15,6 +16,7 @@
 * Composants mS
 
 > Quel sont les principaux composants d'une grappe?  
+
 ![alt tag](components.png)
 
 
