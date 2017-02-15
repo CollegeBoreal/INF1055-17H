@@ -10,12 +10,12 @@
 
 | Theme      | Semaine  | Sujet                                                |
 |:-----------|:--------:|:-----------------------------------------------------|  
-|0.Nuage     | 1        | Installation de l'environnement                      |
-|            | 2        |                                                      |
-|1.PaaS      | 3        |                                                      |
-|            | 4        |                                                      |
-|2.mS        | 3        |                                                      |
-|3.Vagrant   | 4        |                                                      |
+|0.Nuage     | 1        | Présentation                                         |
+|            | 2        | Classification                                       |
+|1.PaaS      | 3        | Premier Pas sur Heroku                               |
+|            | 4        | Deuxieme Pas sur Heroku                              |
+|2.mS        | 3        | Présentation                                         |
+|            | 4        | 3.Vagrant                                            |
 |            | `6`        |                                                      |
 |4.IaaS      | 7        |                                                      |
 |            | 8        |                                                      |
