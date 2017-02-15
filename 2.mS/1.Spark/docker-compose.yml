@@ -1,0 +1,26 @@
+version: '2'
+
+services:
+   db:
+     image: mysql
+     environment:
+      - MYSQL_ROOT_PASSWORD=password
+
+   olddb:
+     image: mysql
+     environment:
+      - MYSQL_ROOT_PASSWORD=password
+
+   spark:
+     build: ./data
+     ports:
+       - "8088:8088"
+       - "8042:8042"
+       - "4040:4040"
+     entrypoint:
+       - "/etc/bootstrap.sh"
+       - -d
+     depends_on:
+       - olddb
+       - db
+
