@@ -14,8 +14,7 @@
 |            | 2        | Classification                                       |
 |1.PaaS      | 3        | Premier Pas sur Heroku                               |
 |            | 4        | Deuxieme Pas sur Heroku                              |
-|2.mS        | 3        | Présentation                                         |
-|            | 4        | 0.Vagrant                                            |
+|2.mS        | 5        | 0.Vagrant                                            |
 |            | `6`        | 1.Spark                                             |
 |4.IaaS      | 7        |                                                      |
 |            | 8        |                                                      |
