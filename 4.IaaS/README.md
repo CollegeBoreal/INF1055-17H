@@ -1,4 +1,4 @@
-> (Revision) 
+> (Devoir) Finir l'installation d'OpenStack
 
 
 # Documentation
