@@ -25,7 +25,7 @@ val urlDest = s"jdbc:mysql://db:3306/$nameDestDB?useSSL=false"
 
 // Importing film
 
-val df_films_oldDB = sqlContext.read.format("jdbc").option("url", urlSource).option("driver", driver).option("dbtable", "film").option("user", userSrcDB).option("password", passSrcDB).option("verifyServerCertificate", "false").load()
+val df_films_oldDB = sqlContext.read.format("jdbc").option("url", urlSource).option("driver", driver).option("dbtable", "customer").option("user", userSrcDB).option("password", passSrcDB).option("verifyServerCertificate", "false").load()
 val df_films_newDB = df_films_oldDB.select($"film_in_stock", $"film_not_in_stock")
 df_films_newDB.write.mode("append").jdbc(urlDest,"FILM",prop) // Overwrite existing film
 
