@@ -12,12 +12,12 @@ val driver = "com.mysql.jdbc.Driver"
 // OldDB
 val userSrcDB = "etudiants"
 val passSrcDB = "etudiants_1"
-val urlSource = "jdbc:mysql://olddb:3306/theindie?useSSL=false"
+val urlSource = "jdbc:mysql://olddb:3306/sakila?useSSL=false"
 
 // Prepare destination parameters
 val userDestDB = "etudiants"
 val passDestDB = "etudiants_1"
-val nameDestDB = "artists"
+val nameDestDB = "sakila"
 val prop = new java.util.Properties
 prop.setProperty("user", userDestDB)
 prop.setProperty("password", passDestDB)

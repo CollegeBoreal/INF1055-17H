@@ -4,7 +4,7 @@
 
 ### Get onto the container
 ```
-$ docker exec -it 1spark_spark_ bash
+$ docker exec -it 1spark_spark_1 bash
 ```
 
 ### Run the spark shell with MySQL
