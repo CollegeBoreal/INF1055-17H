@@ -23,11 +23,11 @@ prop.setProperty("user", userDestDB)
 prop.setProperty("password", passDestDB)
 val urlDest = s"jdbc:mysql://db:3306/$nameDestDB?useSSL=false"
 
-// Importing film
+// Importing category
 
-val df_customers_oldDB = sqlContext.read.format("jdbc").option("url", urlSource).option("driver", driver).option("dbtable", "customer").option("user", userSrcDB).option("password", passSrcDB).option("verifyServerCertificate", "false").load()
-val df_customers_newDB = df_customers_oldDB.select($"first_name", $"last_name")
-df_customers_newDB.write.mode("append").jdbc(urlDest,"CUSTOMER",prop) // Overwrite existing film
+val df_category_oldDB = sqlContext.read.format("jdbc").option("url", urlSource).option("driver", driver).option("dbtable", "category").option("user", userSrcDB).option("password", passSrcDB).option("verifyServerCertificate", "false").load()
+val df_category_newDB = df_category_oldDB.select($"category_id", $"name")
+df_category_newDB.write.mode("append").jdbc(urlDest,"CATEGORY",prop) // Overwrite existing film
 
 
 System.exit(0)
