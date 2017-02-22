@@ -20,5 +20,5 @@ scala> sc.parallelize(1 to 1000).count()
 ```
 ### Run Spark script from scala file as followed:
 ```
-$ spark-shell --jars /usr/local/spark/lib/mysql-connector-java-5.1.38.jar -i /data/scripts/my_dump.scala
+$ spark-shell --jars /usr/local/spark/lib/mysql-connector-java-5.1.38.jar -i /data/scripts/Initial_data_dump.scala
 ```
