@@ -7,10 +7,10 @@
 $ docker exec -it 1spark_spark_1 bash
 ```
 
-### Run the spark shell with MySQL
+### Run the spark shell with MySQL   ( --master yarn-client  --driver-memory 1g --executor-memory 1g )
 
 ```
-$ spark-shell --master yarn-client  --driver-memory 1g --executor-memory 1g --jars /usr/local/spark/lib/mysql-connector-java-5.1.38.jar
+$ spark-shell --jars /usr/local/spark/lib/mysql-connector-java-5.1.38.jar
 ```
 
 ### execute the the following command which should return 1000
