@@ -20,7 +20,7 @@ scala> sc.parallelize(1 to 1000).count()
 ```
 ### Run Spark script from scala file as followed:
 ```
-/usr/local/spark/bin/spark-shell --jars /usr/local/spark/lib/mysql-connector-java-5.1.38.jar -i /data/scripts/Countries_dump.scala
+$ spark-shell --jars /usr/local/spark/lib/mysql-connector-java-5.1.38.jar -i /data/scripts/Countries_dump.scala
 ```
 ## Details about the Spark scripts for importation
 
