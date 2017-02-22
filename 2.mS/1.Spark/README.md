@@ -40,12 +40,20 @@ http://downloads.mysql.com/docs/sakila-db.zip
 $ docker exec -it some-mysql mysql -u root -p -e "create database sakila;"
 ```
 
-- Créer l'utilisateur etudiants
+- Créer l'utilisateur etudiants pour localhost
 
 ```
 $ docker exec -it some-mysql \
  mysql -u root -p -e "GRANT ALL PRIVILEGES on *.* TO 'etudiants'@'localhost' IDENTIFIED BY 'etudiants_1' WITH GRANT OPTION;"
 ```
+
+- Créer l'utilisateur etudiants pour les autres containers
+
+```
+$ docker exec -it some-mysql \
+ mysql -u root -p -e "GRANT ALL PRIVILEGES on *.* TO 'etudiants'@'%' IDENTIFIED BY 'etudiants_1' WITH GRANT OPTION;"
+```
+
 
 - Charger la base
 
