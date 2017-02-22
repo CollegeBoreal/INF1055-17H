@@ -30,7 +30,7 @@
 
 (1 Faible - 5 Tres Bon)
 
-| ID  |DOM|MYS|SPK|CMT| Points (11 * 5 = 55)             |
+| ID  |DOM|MYS|SPK|CMT| Points (***)             |
 |----:|:-:|:-:|:-:|:-:|----------------------------------|  
 |     |   |   |   |   | Comments                         |
 | 6ix |   |   |   |   | (Voir ci-dessous)                |  
