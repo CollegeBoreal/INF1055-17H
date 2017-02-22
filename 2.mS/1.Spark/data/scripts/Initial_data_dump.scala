@@ -23,11 +23,11 @@ prop.setProperty("user", userDestDB)
 prop.setProperty("password", passDestDB)
 val urlDest = s"jdbc:mysql://db:3306/$nameDestDB?useSSL=false"
 
-// Importing countries
+// Importing film
 
-val df_countries_oldDB = sqlContext.read.format("jdbc").option("url", urlSource).option("driver", driver).option("dbtable", "countries").option("user", userSrcDB).option("password", passSrcDB).option("verifyServerCertificate", "false").load()
-val df_countries_newDB = df_iso_countries_oldDB.select($"id", $"printable_name" as "name",$"iso3" as "code")
-df_countries_newDB.write.mode("append").jdbc(urlDest,"COUNTRIES",prop) // Overwrite existing countries
+val df_films_oldDB = sqlContext.read.format("jdbc").option("url", urlSource).option("driver", driver).option("dbtable", "film").option("user", userSrcDB).option("password", passSrcDB).option("verifyServerCertificate", "false").load()
+val df_films_newDB = df_iso_countries_oldDB.select($"film_in_stock", $"film_not_in_stock")
+df_films_newDB.write.mode("append").jdbc(urlDest,"FILM",prop) // Overwrite existing countries
 
 
 System.exit(0)
