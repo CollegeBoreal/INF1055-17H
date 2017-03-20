@@ -16,17 +16,19 @@ $ source ~/Developer/canarie.ca/collège-boréal-openrc-alberta.sh
 ```
 $ env | grep OS
 ```
-HOSTNAME=TO-ORD1255
-OS_REGION_NAME=alberta
-MSYSTEM_CHOST=x86_64-w64-mingw32
-OS=Windows_NT
-OS_TENANT_ID=`whoever`
-FP_NO_HOST_CHECK=NO
-OS_PASSWORD=`whatever`
-OS_AUTH_URL=https://somewhere.beyondthehill.os:5000/v2.0
-MINGW_CHOST=x86_64-w64-mingw32
-OS_USERNAME=`someuser`
-OS_TENANT_NAME=`sometenant`
+
+
+HOSTNAME=TO-ORD1255  
+OS_REGION_NAME=alberta  
+MSYSTEM_CHOST=x86_64-w64-mingw32  
+OS=Windows_NT  
+OS_TENANT_ID=`whoever`  
+FP_NO_HOST_CHECK=NO  
+OS_PASSWORD=`whatever`  
+OS_AUTH_URL=https://somewhere.beyondthehill.os:5000/v2.0  
+MINGW_CHOST=x86_64-w64-mingw32  
+OS_USERNAME=`someuser`  
+OS_TENANT_NAME=`sometenant`  
 
 
 * Creér la deuxiéme VM  
