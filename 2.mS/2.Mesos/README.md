@@ -25,7 +25,7 @@ $ env | grep OS
  >OS_TENANT_ID=`whoever`  
  >FP_NO_HOST_CHECK=NO  
  >OS_PASSWORD=`whatever`  
- >OS_AUTH_URL=https://somewhere.beyondthehill.os:5000/v2.0  
+ >OS_AUTH_URL=https://somewhere.beyondtheh.ill:5000/v2.0  
  >MINGW_CHOST=x86_64-w64-mingw32  
  >OS_USERNAME=`someuser`  
  >OS_TENANT_NAME=`sometenant`  
