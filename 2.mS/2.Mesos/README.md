@@ -2,8 +2,16 @@
 
   * Finir l'installation d'OpenStack - [Devstack](DEVSTACK.md)
   
-# Créer une deuxieme machine Standby dans la région d'Alberta
+# Cluster Management
 
+## Créer une deuxieme machine Standby dans la région d'Alberta
+
+* Dans Git Bash, setter l'environnement
+```
+$ source ~/Developer/canarie.ca/collège-boréal-openrc-quebec.sh
+```
+
+* Creér la deuxiéme VM  
 ```
 $ docker-machine \
   create --driver openstack \
@@ -16,3 +24,5 @@ $ docker-machine \
   --openstack-net-name nova \
   CB-<ton ID>-standby
 ```
+## Installer le cluster 
+   (i.e. se référer au livre `Mesos In Action`)
