@@ -25,4 +25,9 @@ $ docker-machine \
   CB-<ton ID>-standby
 ```
 ## Installer le cluster 
-   (i.e. se référer au livre `Mesos In Action`)
+   (i.e. se référer au livre `Mesos In Action`)  
+   Chapître 3 - Setting up Mesos
+   
+ Tâche: 
+   * Créer un cluster mesos  
+   * Le documenter à travers un blog
