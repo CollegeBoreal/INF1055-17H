@@ -2,7 +2,7 @@
 
   ## Installer le cluster 
    (i.e. se référer au livre `Mesos In Action`)  
-   Chapître 3 - 
+   Chapître 3 -   
       Setting up Mesos  
       Installing from packages
    
