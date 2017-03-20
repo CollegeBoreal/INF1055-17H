@@ -1,6 +1,15 @@
 # Devoir  
 
-  * Finir l'installation d'OpenStack - [Devstack](DEVSTACK.md)
+  ## Installer le cluster 
+   (i.e. se référer au livre `Mesos In Action`)  
+   Chapître 3 - Setting up Mesos
+   
+ Tâche: 
+   * Créer un cluster mesos  
+   * Le documenter à travers un blog
+  
+  
+  > * Finir l'installation d'OpenStack - [Devstack](DEVSTACK.md)
   
 # Cluster Management
 
@@ -44,10 +53,4 @@ $ docker-machine \
   --openstack-net-name nova \
   CB-<ton ID>-standby
 ```
-## Installer le cluster 
-   (i.e. se référer au livre `Mesos In Action`)  
-   Chapître 3 - Setting up Mesos
-   
- Tâche: 
-   * Créer un cluster mesos  
-   * Le documenter à travers un blog
+
