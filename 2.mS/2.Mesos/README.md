@@ -8,7 +8,7 @@
 
 * Dans Git Bash, setter l'environnement
 ```
-$ source ~/Developer/canarie.ca/collège-boréal-openrc-quebec.sh
+$ source ~/Developer/canarie.ca/collège-boréal-openrc-alberta.sh
 ```
 
 * Creér la deuxiéme VM  
