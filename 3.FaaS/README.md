@@ -2,6 +2,6 @@
 
 En utilisant, AWS Lambda créer votre première fonction
 
-Sujet, libre
+Sujet Libre
 
 note: Creér votre répertoire avec votre ID
