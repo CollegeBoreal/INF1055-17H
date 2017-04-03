@@ -21,7 +21,7 @@
 |            | 9        |                                                      |
 |            | 10       |                                                      |
 |            | 11       |                                                      |
-|5. X509     | 12       | https://letsencrypt.org/                             |
+|5. X509     | 12       | https://letsencrypt.org/ Route 53                    |
 |            | 13       |                                                      |
 |            | 14       |                                                      |
 |            | 15       |                                                      |
