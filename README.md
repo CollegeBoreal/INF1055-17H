@@ -15,8 +15,8 @@
 |1.PaaS      | 3        | Premier Pas sur Heroku                               |
 |            | 4        | Deuxieme Pas sur Heroku                              |
 |2.mS        | 5        | 0.Vagrant                                            |
-|            | `6`        | 1.Spark                                             |
-|            | 7        | 2.Mesos                                              |
+|            | `6`        | 1.Spark (Blog GU)                                  |
+|            | 7        | 2.Mesos (Blog JL)                                    |
 |            | 8        |                                                      |
 |            | 9        |                                                      |
 |            | 10       |                                                      |
