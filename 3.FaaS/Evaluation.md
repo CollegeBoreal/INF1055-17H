@@ -20,6 +20,7 @@ A rendre pour le 6 Décembre.
 
 1. Export Function
 2. Run script from aws CLI
+3. Creation API
 
 ## ATT  Attitude
 
