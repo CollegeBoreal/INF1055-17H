@@ -39,4 +39,4 @@
 # Projet
 
 [J](http://myusernamesite.wordpress.com)
-[G](http://ultimateguidetomesos.wordpress.com)
+[G](http://upyeahguides.wordpress.com)
