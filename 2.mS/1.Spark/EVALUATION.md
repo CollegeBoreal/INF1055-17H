@@ -26,14 +26,17 @@
     1. exécuté sans erreur
     2. Script dans github
 
+-[*] Documentation [DOC]
+
+
 ## Notation 
 
 (1 Faible - 5 Tres Bon)
 
-| ID  |DOM|MYS|SPK|CMT| Points (***)             |
-|----:|:-:|:-:|:-:|:-:|----------------------------------|  
-|     |   |   |   |   | Comments                         |
-| 6ix |   |   |   |   | (Voir ci-dessous)                |  
-| IR  |   |   |   |   | (Voir ci-dessous)                |  
+| ID  |DOM|MYS|SPK|CMT|DOC| Points (5*5)                     |
+|----:|:-:|:-:|:-:|:-:|:-:|----------------------------------|  
+|     |   |   |   |   |   | Comments                         |
+| 6ix | 5 | 5 | 4 | 4 | 5 |                                  |  
+| IR  | 5 | 5 | 4 | 4 | 4 |                                  |  
 
 
