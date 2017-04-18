@@ -5,7 +5,7 @@
 
        Google App Engine, IBM SmartCloud, EngineYard, Heroku, AppScale, CloudFoundry (VMWare)
 
-# Exercices
+# Devoir
 
 ## Créer un PaaS avec Heroku
 
