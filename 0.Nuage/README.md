@@ -55,7 +55,7 @@
      * IaaS:  
        AWS, Microsoft Azure, RackSpace, DigitalOcean, OpenNebula, CloudSigma, OracleCloud, TheIntercloud (dead Cisco cloud)
 
-- Nuage Public et Privé   
+# Devoir:  Nuage Public et Privé   
 ```
   1) Exercice: Chercher des Nuages Gratuits
 ```
