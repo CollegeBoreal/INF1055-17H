@@ -36,7 +36,4 @@
 ### Docker Registry
 - Ceph
 
-# Projet
 
-[J](http://myusernamesite.wordpress.com)
-[G](http://upyeahguides.wordpress.com)
