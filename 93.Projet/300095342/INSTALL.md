@@ -20,7 +20,7 @@ Récupérer les mises-à-jour
 $ sudo apt-get update
 ```
 
-## Sur master:
+## Sur `master`:
 
 Installer DC/OS et Zookeeper
 
@@ -31,4 +31,15 @@ $ sudo apt-get install mesos=0.22.2-0.2.62.ubuntu1404 zookeeperd
 Vérification 
 ```
 $  sudo apt-cache show mesos zookeeperd
+```
+
+## Sur les `slaves`:
+
+```
+$ sudo apt-get install mesos=0.22.2-0.2.62.ubuntu1404
+```
+
+Vérification 
+```
+$  sudo apt-cache show mesos
 ```
