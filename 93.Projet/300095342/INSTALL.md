@@ -27,3 +27,8 @@ Installer DC/OS et Zookeeper
 ```
 $ sudo apt-get install mesos=0.22.2-0.2.62.ubuntu1404 zookeeperd
 ```
+
+Vérification 
+```
+$  sudo apt-cache show mesos zookeeperd
+```
