@@ -1,6 +1,8 @@
 
 ## Setup (on canarie)
 
+[Canarie QC Console](https://nova-qc.dair-atir.canarie.ca)
+
 ```
 $ source collège-boréal-openrc-quebec.sh
 ```
