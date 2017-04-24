@@ -4,10 +4,18 @@
 
 - CAPEX vs OPEX
 
-- Nuage public  
+- Nuage Public:  
    . Les 5 principes  
    . Les classifications  
    . Les Temps d'installation  
 
+- Nuage Privé:      
+   . Les composants (i.e. OpenStack)
+   
+* Virtualisation  
 
-
+  . Conteneurs 
+  . Machines Virtuelles
+  . Conteneurs vs Machines Virtuelles
+  . Orchestration
+  
