@@ -1,9 +1,13 @@
 # Examen Final
 
 * Nuage:  
-1 - Classification des nuages (XaaS)  
-2 - Différentiation dans le choix d'une architecture  
 
-* 
+- CAPEX vs OPEX
+
+- Nuage public  
+   . Les 5 principes  
+   . Les classifications  
+   . Les Temps d'installation  
+
 
 
