@@ -2,15 +2,15 @@
 
 * Nuage:  
 
-- CAPEX vs OPEX
+   - CAPEX vs OPEX
 
-- Nuage Public:  
-   . Les 5 principes  
-   . Les classifications  
-   . Les Temps d'installation  
+   - Nuage Public:  
+      . Les 5 principes  
+      . Les classifications  
+      . Les Temps d'installation  
 
-- Nuage Privé:      
-   . Les composants (i.e. OpenStack)
+   - Nuage Privé:      
+      . Les composants (i.e. OpenStack)
    
 * Virtualisation  
 
