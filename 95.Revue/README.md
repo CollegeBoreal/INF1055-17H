@@ -15,7 +15,7 @@
 * Virtualisation  
 
   . Conteneurs 
-  . Machines Virtuelles
-  . Conteneurs vs Machines Virtuelles
-  . Orchestration
+  . Machines Virtuelles  
+  . Conteneurs vs Machines Virtuelles  
+  . Orchestration  
   
