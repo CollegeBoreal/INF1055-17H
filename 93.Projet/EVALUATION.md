@@ -26,7 +26,7 @@
     1 - Enregistremwent du device sur AWS IoT
     2 - Gérer les clés
     3 - Configuration de l'abonnement MQTT
-    4 - Envoi du message MQTT
+    4 - Envoi du message MQTT (???)
 
   2) Originalité [ORI]
     1 - Customization
@@ -43,5 +43,5 @@
 | ID  |PAS1|PAS2|PAS3|PAS4|ORI1|ORI2|ORI3|ORI4| Points (8*5)                     |
 |----:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|----------------------------------|  
 |     |    |    |    |    |    |    |    |    | Comments                         |
-| 6ix |    |    |    |    |    |    |    |    |                                  |  
-| IR  |  5 |  5 |  5 |  5 |    |    |    |    |                                  |  
+| 6ix |  5 |  5 |  5 |  ? |    |    |    |    |                                  |  
+| IR  |  5 |  5 |  5 |  ? |    |    |    |    |                                  |  
