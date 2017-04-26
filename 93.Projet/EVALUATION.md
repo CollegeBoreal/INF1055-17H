@@ -22,6 +22,11 @@
 * AWS IoT
 
 ```
+  A) Création d'un service IoI
+    1 - Enregistremwent du device sur AWS IoT
+    2 - Gérer les clés
+    3 - Configuration de l'abonnement MQTT
+    4 - Envoi du message MQTT
 
   2) Originalité [ORI]
     1 - Customization
